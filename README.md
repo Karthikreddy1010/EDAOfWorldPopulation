@@ -1,6 +1,7 @@
 # EDAOfWorldPopulation
 Gathering of data
 Data cleaning or removing outliers and unwanted columns
+Doinf Feature Engineering process to get data more efficiently 
 Data Visualization by plotly and seaborn graphs
 By applying plotly and seaborn,we can represent the data more efficient way 
 The data consists of worldpopulation of 2022,2021,2015,2010,2000,1990 and 1980 years and also consists of Area,Density and growth rate of various countries
